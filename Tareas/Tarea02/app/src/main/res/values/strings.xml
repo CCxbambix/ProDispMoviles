@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">Tarea02InterfazUsuario</string>
+    <string name="text1">Nombre</string>
+    <string name="text2">Correo</string>
+    <string name="text3">Elige el/los deportes que practiques</string>
+    <string name="text4">Elige la salsa de los chilaquiles</string>
+    <string name="text5">Elige una proteina</string>
+    <string name="text6">Elige tus complementos</string>
+    <string name="text7">Dirección</string>
+    <string name="radiobttn5">Verdes</string>
+    <string name="radiobttn6">Rojos</string>
+    <string name="radiobttn7">Huevo</string>
+    <string name="radiobttn8">Pechuga de pollo</string>
+    <string name="radiobttn9">Bistec</string>
+    <string name="checkbox1">Futbol</string>
+    <string name="checkbox2">Natación</string>
+    <string name="checkbox3">Basquetbol</string>
+    <string name="checkbox4">Cebolla</string>
+    <string name="checkbox5">Queso</string>
+    <string name="checkbox6">Crema</string>
+    <string name="checkbox7">Frijoles</string>
+    <string name="text8">Dirección</string>
+    <string name="bttnpantalla">Cambiar pantalla</string>
 </resources>
